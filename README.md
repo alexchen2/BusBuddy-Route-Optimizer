@@ -1,4 +1,4 @@
-# BusBuddy
+# BusBuddy: Route Optimizer
 
 Our tool to promote equality of education, save on fuel, and help the planet.
 
